@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html>
+	<head> 
+		<meta charset="utf-8">
+		<title>The Eclipse Information Compilation</title>
+	<style>
+      p{
+         color: orange;
+      }
+       body{
+         background-color: black;
+      }
+       h1{
+         color: orange;
+      }
+       h2{
+         color: orange;
+      }
+      body {
+    color: orange;
+  }
+h3{
+         color: orange;
+      }
+         </style>
+   
+
+	</head>
+	
+	<body>
+    
+    <h1> <center> Everything About Lunar Eclipses</center> </h1>
+     <img src="https://science.nasa.gov/wp-content/uploads/2023/05/2-eclipse-colorized.jpg?w=4096&format=jpeg"
+	alt="Elcipse"
+	class="center"
+    width="700"
+    > 
+<p> 
+    Solar and lunar eclipses manifest solely within a brief timeframe designated as an eclipse season. Each eclipse season possesses its own unique characteristics, with certain seasons standing out as particularly remarkable.
+    <p>
+    <h1> <center> Eclipse Calendar</h1>
+	<img src="https://c.tadst.com/gfx/1200x675/article-eclipse-calendar--2021-2024-1.png?1"
+    alt="Eclipse Calendar"
+    width="570
+    ">
+    
+    <p> Here are a record of eclipses from the 20th century! Credit to CBS
+    (https://www.cbsnews.com/news/list-past-total-solar-eclipses-us/)
+   <ul>
+  <li>
+    <strong>1900:</strong> The first eclipse of the 20th century was in 1900, according to the parks service. The path of totality of that eclipse brought it over Wadesboro, North Carolina.
+  </li>
+  <li>
+    <strong>1918:</strong> In June 1918, a total solar eclipse was visible from Washington to Florida, according to the parks service. It was the last time a total solar eclipse would be visible across the entire continent for nearly 100 years.
+  </li>
+  <li>
+    <strong>1925:</strong> This was followed by another total solar eclipse in January 1925, which was visible from Minnesota through New England, according to NASA.
+  </li>
+  <li>
+    <strong>1932:</strong> In August 1932, another total solar eclipse was visible in North America. The path of totality for this eclipse was mostly in Canada, according to NASA, but was visible in northern New England including parts of Vermont, Maine, New Hampshire and Massachusetts.
+  </li>
+  <li>
+    <strong>1963:</strong> The next total solar eclipse in the U.S. wasn't until July 1963. This eclipse was visible in Alaska and parts of northern New England, according to NASA.
+  </li>
+  <li>
+    <strong>1970:</strong> In March 1970, another total solar eclipse was visible from the coast of the Southwest United States.
+   
+  </li>
+</ul>
+   In the 21st century there has been 2 eclipses, 2017 and just recently, March 8th 2024!
+   <p>
+<h1> <center> Eclipse Map for 2024</h1>
+<p> Here is the path of the total eclipse from 2024. Many travel to the path of totality where it appears as if it was night time in the middle of the day. <p>
+
+
+<img src=" https://science.nasa.gov/wp-content/uploads/2022/10/eclipse-map-2024-1920-1.png?w=1920"
+    alt="Eclipse map"
+    width="570
+    ">
+    <img src="   https://www.astronomy.com/wp-content/uploads/sites/2/2024/02/ASY-AT0424_1.jpg?fit=620%2C534"
+    alt="Eclipse map"
+    width="570
+    ">
+   <img src="   https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/04/932/524/eclipse-map.jpeg?ve=1&tl=1"
+    alt="Eclipse map"
+    width="570
+    ">
+    <div class="container">
+  <h1>Make Your Own Solar Eclipse Viewing Device</h1>
+  <img src="data:image/png;base64,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"
+  width="300"
+  >
+  
+  <p>A solar eclipse viewing device, such as a pinhole projector, is a safe and easy way to observe a solar eclipse. Follow these steps to create your own:</p>
+  
+  <ol>
+    <li>Find a cardboard box or make one from a cereal box.</li>
+    <li>Cut a small square hole (about 2 cm by 2 cm) in one side of the box.</li>
+    <li>Cover the square hole with aluminum foil and secure it with tape.</li>
+    <li>Using a pin, poke a small hole in the center of the aluminum foil.</li>
+    <li>Stand with your back to the sun and hold the box so that sunlight shines through the pinhole and onto a blank piece of paper placed inside the box.</li>
+    <li>Adjust the distance between the pinhole and the paper until you see a clear image of the sun projected onto the paper.</li>
+    <li>Enjoy observing the solar eclipse safely!</li>
+  </ol>
+  
+  <p>Remember, never look directly at the sun without proper eye protection, as it can cause serious damage to your eyes.</p>
+</div>
+
+    
+      <h1>Some pictures of the 2024 eclipse</h1>
+    
+    <img src=" https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2024-04/240408-total-solar-eclipse-mexico-ew-212p-1fe045.jpg"
+    alt="Eclipse map"
+    width="300
+    ">
+   <img src=" data:image/jpeg;base64,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"
+    alt="Eclipse map"
+    width="300
+    ">
+    
+   <img src=" data:image/jpeg;base64,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"
+    alt="Eclipse map"
+    width="300
+    ">
+    
+<img src="    https://www.princeton.edu/sites/default/files/styles/1x_full_2x_half_crop/public/images/2024/04/IMG_7906%5B3%5D.jpg?itok=BDA3_DwV"
+    alt="Eclipse map"
+    width="300
+    ">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>"Eclipse Comment Section"</title>
+<style>
+    /* Basic styling for demonstration */
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+    .container {
+        width: 80%;
+        margin: auto;
+    }
+    h1 {
+        text-align: center;
+    }
+    #comment-form {
+        margin-bottom: 20px;
+    }
+    #comments {
+        list-style-type: none;
+        padding: 0;
+    }
+    .comment {
+        margin-bottom: 20px;
+        border-bottom: 1px solid #ccc;
+        padding-bottom: 10px;
+    }
+    .comment p {
+        margin: 0;
+    }
+</style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Eclipse Comment Section</h1>
+
+    <!-- Comment Form -->
+    <form id="comment-form">
+        <div>
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required>
+        </div>
+        <div>
+            <label for="comment">Comment:</label><br>
+            <textarea id="comment" name="comment" rows="4" cols="50" required></textarea>
+        </div>
+        <button type="submit">Submit</button>
+    </form>
+
+    <!-- Comments -->
+    <ul id="comments">
+        <!-- Comments will be dynamically added here -->
+    </ul>
+</div>
+
+<script>
+    document.getElementById("comment-form").addEventListener("submit", function(event) {
+        event.preventDefault();
+        
+        // Get form values
+        var name = document.getElementById("name").value;
+        var comment = document.getElementById("comment").value;
+
+        // Create comment element
+        var commentElement = document.createElement("li");
+        commentElement.classList.add("comment");
+        commentElement.innerHTML = "<p><strong>" + name + ":</strong> " + comment + "</p>";
+
+        // Append comment to comments list
+        document.getElementById("comments").appendChild(commentElement);
+
+        // Reset form
+        document.getElementById("comment-form").reset();
+    });
+</script>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Upload Pictures</title>
+<style>
+    /* Basic styling for demonstration */
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+    .container {
+        width: 80%;
+        margin: auto;
+        text-align: center;
+    }
+    #upload-form {
+        margin-top: 50px;
+    }
+</style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Your Eclipse Pictures</h1>
+
+    <!-- File Upload Form -->
+    <form id="upload-form" action="/upload" method="post" enctype="multipart/form-data">
+        <label for="picture">Select Picture:</label><br>
+        <input type="file" id="picture" name="picture" accept="image/*" required><br><br>
+        <button type="submit">Upload</button>
+    </form>
+</div>
